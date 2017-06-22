@@ -6,6 +6,6 @@ You can get more information or [download website](http://kamibot.com/lib)
 
 # Installer
 
-[Download website](http://kamibot.com/lib/kamiblock-app/)
+[KamiBlock on the App Store](https://itunes.apple.com/us/app/kamiblock/id1146072503?mt=8)
 
 
